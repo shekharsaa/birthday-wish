@@ -55,7 +55,7 @@
   display: none;
   width: 100%;
   padding: 0 0 50px 0;
-  top: 0;
+  top: 100px;
   color: #fff;
   font-size: 60px;
   background-color: rgba(89, 146, 163, 0.9);
@@ -73,13 +73,6 @@
   margin: 50px 0 0 0;
   font-size: 50px;
   text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
-}
-.main-section .container .main .msg-box .birthday-guy {
-  margin-top: 50px;
-}
-.main-section .container .main .msg-box .birthday-guy img {
-  width: 300px;
-  border-radius: 50%;
 }
 
 /*# sourceMappingURL=main.css.map */
