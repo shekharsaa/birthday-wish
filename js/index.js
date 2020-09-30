@@ -8,7 +8,7 @@ $( document ).ready(function() {
             $(".msg-box").css("display" , "block");
             $(".msg-name").text(name);
             ($("#name").val(""));
-            $('#audio').trigger('play'); 
+            $("#audio").trigger('play'); 
         }
     });
 });
